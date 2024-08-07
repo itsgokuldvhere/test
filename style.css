@@ -1,0 +1,111 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+header{
+    height: 100px;
+    font-size: 30px;
+    background-color: rgb(71, 116, 118);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+h1{
+    text-align: center;
+    font-family: "Black Ops One", system-ui;
+    color: rgb(235, 208, 174);
+}
+i{
+    margin: 10px;
+}
+#login{
+    float: right;
+    top: 10px;
+
+} 
+#nav1{
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(71, 116, 118);;
+
+}
+#nav1 a{
+    color: aliceblue;
+    padding: 15px;
+}
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    top: 10%;
+}
+#new{
+    font-size: 50px;
+    color: rgb(176, 77, 6);
+    font-family: "Black And White Picture", system-ui;
+}
+#firstp{
+    text-align: justify;
+    width: 650px;
+    margin-left: 25px;
+    position: relative;
+}
+.main_img{
+    float:right;
+}
+.col{
+    
+    width: 260px;
+    height: 400px;
+    background-color:rgb(253, 248, 214);
+    float: left;
+    margin: 30px;
+    box-shadow: 4px 5px 6px 8px rgb(96, 95, 95);
+    border-radius: 5px;
+    padding: 23px;
+}
+.my-button {
+    background-color: #af0c0c; /* Green background */
+    border: none;             /* Remove borders */
+    color: white;             /* White text */
+    padding: 20px 20px;       /* Some padding */
+    text-align: center;       /* Center the text */
+    text-decoration: none;    /* Remove underline */
+    display: inline-block;    /* Make the button inline */
+    font-size: 16px;          /* Increase font size */
+    margin: 4px 2px;          /* Some margin */
+    cursor: pointer;          /* Pointer/hand icon */
+    border-radius: 12px;      /* Rounded corners */
+}
+
+.my-button1 {
+    background-color: #ce5118; /* Green background */
+    border: none;             /* Remove borders */
+    color: white;             /* White text */
+    padding: 20px 20px;       /* Some padding */
+    text-align: center;       /* Center the text */
+    text-decoration: none;    /* Remove underline */
+    display: inline-block;    /* Make the button inline */
+    font-size: 16px;          /* Increase font size */
+    margin: 4px 2px;          /* Some margin */
+    cursor: pointer;          /* Pointer/hand icon */
+    border-radius: 12px;      /* Rounded corners */
+}
+#products{
+    width: 150px;
+    height: 150px;
+    
+    border: 2px solid salmon;
+    margin-left: 45px;
+}
+p{
+    
+}
+/* footer */
+
+
+
